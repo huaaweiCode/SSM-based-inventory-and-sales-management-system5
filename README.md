@@ -51,11 +51,7 @@
 
 用户管理：管理员可以通过用户名和用户角色查询用户信息，还可以增删改用户
 
-## 5、获取方式
 
-扫描下方，回复 “**进存销5** ” ，即可获取完整版的项目代码。
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 
 
 
